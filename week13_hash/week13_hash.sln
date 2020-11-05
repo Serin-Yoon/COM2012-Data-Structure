@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week13_hash", "week13_hash\week13_hash.vcxproj", "{CBE00B35-5615-4D10-ADBC-03122C8790BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Debug|x64.ActiveCfg = Debug|x64
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Debug|x64.Build.0 = Debug|x64
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Debug|x86.Build.0 = Debug|Win32
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Release|x64.ActiveCfg = Release|x64
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Release|x64.Build.0 = Release|x64
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Release|x86.ActiveCfg = Release|Win32
+		{CBE00B35-5615-4D10-ADBC-03122C8790BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {192BC5C1-6BB0-455D-A810-0605444ABD16}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  BST.c
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week10_BST\week10_BST\BST.c(190,6): warning C4101:  'data' :참조되지 않은 지역 변수입니다.
+  week10_BST.vcxproj -> C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week10_BST\Debug\week10_BST.exe

@@ -1,0 +1,44 @@
+﻿  graph.c
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(43,13): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(43,13): warning C4024:  'init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(64,21): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(64,21): warning C4024:  'insertVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(65,21): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(65,21): warning C4024:  'insertVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(66,21): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(66,21): warning C4024:  'insertVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(67,19): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(67,19): warning C4024:  'insertEdge': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(68,19): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(68,19): warning C4024:  'insertEdge': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(69,19): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(69,19): warning C4024:  'insertEdge': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(83,23): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(83,23): warning C4024:  'insertVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(87,23): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(87,23): warning C4024:  'deleteVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(98,21): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(98,21): warning C4024:  'insertEdge': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(108,21): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(108,21): warning C4024:  'deleteEdge': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(115,19): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(115,19): warning C4024:  'adjacent': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(122,35): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(122,35): warning C4024:  'degreeofVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(127,32): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(127,32): warning C4024:  'numofVertex': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(132,30): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(132,30): warning C4024:  'numofEdge': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(137,21): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(137,21): warning C4024:  'printGraph': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(141,32): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(141,32): warning C4024:  'isConnected': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(153,29): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(153,29): warning C4024:  'pathExist': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(160,15): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(160,15): warning C4024:  'init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(164,28): warning C4047:  '함수': 'Graph *'의 간접 참조 수준이 'Graph **'과(와) 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(164,28): warning C4024:  'isEmpty': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(75,7): warning C4101:  'number' :참조되지 않은 지역 변수입니다.
+C:\Users\윤세린\Desktop\week12_graph\week12_graph\graph.c(460,8): warning C4101:  'ptr' :참조되지 않은 지역 변수입니다.
+  week12_graph.vcxproj -> C:\Users\윤세린\Desktop\week12_graph\Debug\week12_graph.exe
