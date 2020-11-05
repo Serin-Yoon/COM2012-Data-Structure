@@ -1,0 +1,3 @@
+﻿  stack.c
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week6_stack\week6_stack\stack.c(169,7): warning C4101:  'create_data' :참조되지 않은 지역 변수입니다.
+  week6_stack.vcxproj -> C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week6_stack\Debug\week6_stack.exe

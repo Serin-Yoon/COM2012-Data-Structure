@@ -1,0 +1,16 @@
+﻿  array.c
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(44,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(33,6): warning C4101:  'result' :참조되지 않은 지역 변수입니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(195,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(201,29): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(182,7): warning C4101:  'findData' :참조되지 않은 지역 변수입니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(217,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(255,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(272,12): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(289,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(297,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(312,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(335,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(361,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\week4_array\array.c(362,25): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  week4_array.vcxproj -> C:\Users\윤세린\Desktop\SKKU\2학년 1학기\자료구조\In Lab\C\week4_array\Debug\week4_array.exe
